@@ -1,0 +1,46 @@
+listing - czy wszystko ok wszystkie defijnicje
+
+listing(na) - tylko definicja na wylistuje sie
+
+
+listing(na/2) - wyswietli dyfinicja na z 2 argumentami
+
+na/2 gdie 2 lista argomentow
+
+
+
+
+klauzula 
+
+| jak miga to sa odpowiedzi alternatywne 
+
+srednik i dalej odpowiedzi alternatywne
+
+
+_ - zmienna anonimowa
+X - zmienna
+
+
+
+
+
+
+15 ?- na(X,c),na(c,Y).    pomiedzy czym lezy c
+X = d,
+Y = a ;
+X = d,
+Y = b.
+
+
+
+
+pod i miedzy 
+
+
+na(_,X),na(X,_). ktura wartosc lezy po srodku
+
+-------------------------------------------------------
+
+ctr c ctr v
+abort
+a. wyjsc 
